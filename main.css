@@ -1,0 +1,65 @@
+body { 
+	background: red; 
+	color: white;
+	font-family: impact;
+}
+
+link {
+	top: 0px;
+}
+
+h1 {
+	font-weight: normal;
+	font-size:12em;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-family: impact;
+	font-weight: normal;
+	font-size: 5em;
+}
+
+h4 {
+	font-family: impact;
+	font-weight: normal;
+	font-size: 3em;
+	letter-spacing: 0.5em;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: times new roman;
+	font-weight: normal;
+	font-size: 0.9em;
+	letter-spacing: 0.07em;
+
+	width: 700px;
+	left: 500px;
+	right: 100px;
+
+}
+
+h5 {
+
+	font-family: impact;
+	font-weight: normal;
+	font-size: 3em;
+	letter-spacing: 0.5em;
+	text-transform: uppercase;
+
+}
+h6 {
+	font-family: impact;
+	font-weight: normal;
+	font-size: 3em;
+	letter-spacing: 0.5em;
+	text-transform: uppercase;
+
+}
+
+.fp {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	letter-spacing: 0.05em
+}
