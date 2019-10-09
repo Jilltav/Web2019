@@ -1,0 +1,134 @@
+
+
+
+body { 
+	background: red; 
+	color: black;
+	font-family: impact;
+}
+
+
+p {
+	font-family: digital play st;
+	color: white;
+	font-weight: normal;
+	font-size: 0.5em;
+	letter-spacing: 1.0em;
+	text-align: justify;
+
+}
+
+h1 {
+	color: white;
+	font-family: digital play st;
+	font-weight: normal;
+	font-size: 0.5em;
+	letter-spacing: 1.0em;
+	text-align: center;
+	line-height: 5em;
+
+
+
+}
+
+h2 {
+
+	color: white;
+	font-family: digital play st;
+	font-weight: normal;
+	font-size: 0.5em;
+	letter-spacing: 1.0em;
+	text-align: center;
+	line-height: 20em;
+
+
+
+}
+
+h3 {
+	color: white;
+	font-family: digital play st;
+	font-weight: normal;
+	font-size: 0.5em;
+	letter-spacing: 0.5em;
+	text-align: justify;
+	line-height: 2.5em;
+
+
+
+}
+
+h4 {
+	position: absolute;
+	color: white;
+	font-family: digital play st;
+	font-weight: normal;
+	font-size: 0.5em;
+	letter-spacing: 0.5em;
+	text-align: justify;
+	line-height: 2.5em;
+	top: 800px;
+	left: 150px;
+	
+
+}
+
+h5 {
+	position: absolute;
+	color: white;
+	font-family: digital play st;
+	font-weight: bold;
+	font-size: 0.5em;
+	letter-spacing: 1.0em;
+	text-align: justify;
+	line-height: 2em;
+
+
+
+}
+
+
+h6 {
+	position: absolute;
+	color: white;
+	font-family: digital play st;
+	font-weight: normal;
+	font-size: 0.5em;
+	letter-spacing: 2.5em;
+	line-height: 50em;
+	top: 1535px;
+	left: -50px;
+
+
+}
+
+h6:hover {
+  color: lightgreen;
+}
+
+
+
+
+a {
+	color: white;
+	font-family: digital play st;
+	font-weight: normal;
+	font-size: 0.1em;
+	letter-spacing: 2.5em;
+	text-align: center;
+	line-height: 5em;
+
+
+
+}
+
+a:hover {
+  color: lightgreen;
+}
+
+
+
+
+
+
+
