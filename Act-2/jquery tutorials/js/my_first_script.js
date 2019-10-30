@@ -116,6 +116,30 @@ $("#cc4j14").css({
 		"right": $(window).width()/2,
 		"top": mY
 	})
+
+$("#cc4j15").css({
+
+		"left": $(window).width()/4,
+		"bottom": $(window).height()-mY
+	})
+
+$("#cc4j16").css({
+
+		"left": $(window).width()/4,
+		"top": $(window).height()-mY
+	})
+
+$("#cc4j17").css({
+
+		"right": $(window).width()/4,
+		"bottom": $(window).height()-mY
+	})
+
+$("#cc4j18").css({
+
+		"right": $(window).width()/4,
+		"top": $(window).height()-mY
+	})
 		
 	})
 
