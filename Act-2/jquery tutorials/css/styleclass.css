@@ -1,0 +1,147 @@
+* {
+	cursor: none;
+}
+
+body, html {
+	background: orange;
+	height: 100%;
+	margin: 0;
+	cursor: none;
+}
+
+.cursor {
+	transition: transform 3s;
+}
+
+.cursor.rotate{
+
+	transform: rotate(180deg);
+
+}
+
+
+
+
+#cc4jC {
+	width: 70px;
+	position: fixed;
+
+	/*top: -500px;
+	left: -500px;*/
+
+
+}
+
+#cc4jU {
+	width: 70px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j {
+
+	width: 50px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+}
+
+#cc4j2 {
+
+	width: 50px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+}
+
+#cc4j3 {
+	width: 50px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j4 {
+	width: 50px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j5 {
+	width: 70px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j6 {
+	width: 70px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j7 {
+	width: 70px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j8 {
+	width: 70px;
+	position: fixed;
+	/*top: -500px;
+	left: -500px;*/
+	
+
+}
+
+#cc4j9 {
+	width: 70px;
+	position: fixed;
+}
+
+#cc4j10 {
+	width: 70px;
+	position: fixed;
+}
+
+	
+
+#cc4j11 {
+	width: 70px;
+	position: fixed;
+}
+
+#cc4j12 {
+	width: 50px;
+	position: fixed;
+}
+
+#cc4j13 {
+	width: 70px;
+	position: fixed;
+}
+
+#cc4j14 {
+	width: 50px;
+	position: fixed;
+}
+
+	
+
