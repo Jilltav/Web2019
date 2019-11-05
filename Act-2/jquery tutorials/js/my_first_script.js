@@ -140,6 +140,12 @@ $("#cc4j18").css({
 		"right": $(window).width()/4,
 		"top": $(window).height()-mY
 	})
+
+$("#cc4j19").css({
+
+		"right": $(window).height()+mX,
+		"bottom": $(window).width()/4.1
+	})
 		
 	})
 

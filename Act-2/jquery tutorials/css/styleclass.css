@@ -10,12 +10,12 @@ body, html {
 }
 
 .cursor {
-	transition: transform 3s;
+	transition: transform 2s;
 }
 
 .cursor.rotate{
 
-	transform: rotate(180deg);
+	transform: rotate(1000000deg);
 
 }
 
@@ -159,6 +159,11 @@ body, html {
 }
 
 #cc4j18 {
+	width: 50px;
+	position: fixed;
+}
+
+#cc4j19 {
 	width: 50px;
 	position: fixed;
 }
